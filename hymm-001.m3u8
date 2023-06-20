@@ -3,7 +3,6 @@
 #EXT-X-TARGETDURATION:6
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="https://ts.pmeaqve.cn/20230311/u16JQZTr/2000kb/hls/key.key"
 #EXTINF:3,
 https://ts.pmeaqve.cn/20230311/u16JQZTr/2000kb/hls/yK5hg2wJ.ts
 #EXTINF:3,
